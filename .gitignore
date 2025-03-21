@@ -1,8 +1,8 @@
 # ignore some files
 .idea/
 *.pyc
-*.png
-*.jpg
+#*.png
+#*.jpg
 *.log
 .DS_Store
 .log/
